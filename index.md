@@ -1,5 +1,4 @@
 ---
-title: Welcome to my blog
-my content
+title: Welcome to my blog my content
 ---
 
